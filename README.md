@@ -1,5 +1,7 @@
 # Module 02 Mini-Project: CSS Snippet Cheat Sheet
 
+[Click here for completed webpage](https://mxu4321.github.io/module2_mini_project/)
+
 In this activity, you will work with a group to build a webpage that will hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
 
 ## Instructions
